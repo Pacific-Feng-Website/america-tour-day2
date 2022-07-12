@@ -154,7 +154,7 @@ h1{
 }
 
 #content .photo{
-	width: 800px;
+	"width: 70%;
 	display:block; 
 	margin: 1vh auto 3vh auto;
 }
